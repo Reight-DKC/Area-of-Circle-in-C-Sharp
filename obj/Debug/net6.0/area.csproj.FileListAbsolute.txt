@@ -1,0 +1,15 @@
+C:\Users\User\Progra - Tareas\Aréa de un circulo\area\bin\Debug\net6.0\area.exe
+C:\Users\User\Progra - Tareas\Aréa de un circulo\area\bin\Debug\net6.0\area.deps.json
+C:\Users\User\Progra - Tareas\Aréa de un circulo\area\bin\Debug\net6.0\area.runtimeconfig.json
+C:\Users\User\Progra - Tareas\Aréa de un circulo\area\bin\Debug\net6.0\area.dll
+C:\Users\User\Progra - Tareas\Aréa de un circulo\area\bin\Debug\net6.0\area.pdb
+C:\Users\User\Progra - Tareas\Aréa de un circulo\area\obj\Debug\net6.0\area.csproj.AssemblyReference.cache
+C:\Users\User\Progra - Tareas\Aréa de un circulo\area\obj\Debug\net6.0\area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Progra - Tareas\Aréa de un circulo\area\obj\Debug\net6.0\area.AssemblyInfoInputs.cache
+C:\Users\User\Progra - Tareas\Aréa de un circulo\area\obj\Debug\net6.0\area.AssemblyInfo.cs
+C:\Users\User\Progra - Tareas\Aréa de un circulo\area\obj\Debug\net6.0\area.csproj.CoreCompileInputs.cache
+C:\Users\User\Progra - Tareas\Aréa de un circulo\area\obj\Debug\net6.0\area.dll
+C:\Users\User\Progra - Tareas\Aréa de un circulo\area\obj\Debug\net6.0\refint\area.dll
+C:\Users\User\Progra - Tareas\Aréa de un circulo\area\obj\Debug\net6.0\area.pdb
+C:\Users\User\Progra - Tareas\Aréa de un circulo\area\obj\Debug\net6.0\area.genruntimeconfig.cache
+C:\Users\User\Progra - Tareas\Aréa de un circulo\area\obj\Debug\net6.0\ref\area.dll
